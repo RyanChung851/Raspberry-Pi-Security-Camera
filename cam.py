@@ -1,10 +1,9 @@
-import time
 import os
 
 """
     Created by Ryan Chung 4/20/2017
 
-    This program will only run on a raspberry pi that has motion package and odeke-em/drive fuse filesystem installed.
+    This program will only run on a raspberry pi that has motion package and odeke-em/drive Filesystem in Userspace installed.
     Credits to odeke-em/drive: https://github.com/odeke-em/drive
     This program will only run when motion is detected through a functional USB camera connected to the raspberry pi.
 """
